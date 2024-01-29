@@ -1,4 +1,5 @@
 //Set global variable that would contain the position, velocity and the html element "ball"
+//Ball Code for Class 
 var positionX = 0;
 var positionY = 0;
 var velocity = 100;
